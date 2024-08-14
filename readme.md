@@ -1,4 +1,4 @@
-### About the Project
+## About the Project  
 
 Ignite timer is a web app to control tasks.  
 The project is developed with React and Typescript.
@@ -11,7 +11,7 @@ packages:
 - date-fns   
 It was developed as part of the Rocketseat Full-stack MBA. (https://www.rocketseat.com.br/mba)  
 
-### View 
+## View 
 
 You can access the project [Ignite timer](https://leodolago.github.io).
 
@@ -19,7 +19,7 @@ You can access the project [Ignite timer](https://leodolago.github.io).
 
 The project layout is available on [Figma](https://www.figma.com/community/file/1127351821076435124).
 
-### License
+## License
 
 This project is under the MIT license.  
 
