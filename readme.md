@@ -3,13 +3,13 @@
 Ignite timer is a web app for tracking task times.  
 Developed with React and Typescript.
 
-Used Hooks:  
+Used Hooks:   
 - useState
 - useEffect
 - useContext
 - useReducer
 
-packages:  
+Used Packages:  
 - immer 
 - date-fns   
 
